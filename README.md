@@ -7,7 +7,7 @@ ___
 Install the latest version from github as follows.
 
 ```
-devtools::install_github('JoseAndresMontesLopez/CharityNavigatoR')
+devtools::install_github('JoseAndresMontes/CharityNavigatoR')
 ```
 
 Each subscriber to Charity Navigator API is uniquely identified by an ID and Key sequence, and every request to the API requires both of these credentials. After loading the `CharityNavigator` package, you should set your ID and Key in your environment as shown below. This facilitates API calls without needing to specify your ID and Key every time.

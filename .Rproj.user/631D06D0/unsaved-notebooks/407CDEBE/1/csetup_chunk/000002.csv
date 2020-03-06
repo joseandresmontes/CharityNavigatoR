@@ -1,0 +1,4 @@
+"0","devtools::install_github('JoseAndresMontes/CharityNavigatoR')"
+"2","Skipping install of 'CharityNavigatoR' from a github remote, the SHA1 (59ffd553) has not changed since last install.
+  Use `force = TRUE` to force installation
+"

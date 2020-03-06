@@ -1,24 +1,24 @@
 {
     "collab_server" : "",
     "contents" : "",
-    "created" : 1583466695672.000,
+    "created" : 1583467509671.000,
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "0",
-    "id" : "2A3D82DF",
-    "lastKnownWriteTime" : 1577231124,
-    "last_content_update" : 1577231124,
+    "hash" : "1274222252",
+    "id" : "BF6D608F",
+    "lastKnownWriteTime" : 1583467667,
+    "last_content_update" : 1583467667572,
     "path" : "C:/Users/JoseA/OneDrive/Desktop/Indep. Study/R packages/CharityNavigatoR/DESCRIPTION",
     "project_path" : "DESCRIPTION",
     "properties" : {
-        "cursorPosition" : "12,14",
+        "cursorPosition" : "2,35",
         "scrollLine" : "0"
     },
     "read_only" : false,
     "read_only_alternatives" : [
     ],
-    "relative_order" : 2,
+    "relative_order" : 1,
     "source_on_save" : false,
     "source_window" : "",
     "type" : "dcf"

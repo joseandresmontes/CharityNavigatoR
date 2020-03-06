@@ -6,7 +6,7 @@
 "1",""
 "1",""
 "1","  "
-"1","[32m√[39m  [38;5;247mchecking for file 'C:\Users\JoseA\AppData\Local\Temp\Rtmpw96KXj\remotesf14251344e4\joseandresmontes-CharityNavigatoR-2f19197/DESCRIPTION'[39m[36m[39m"
+"1","[32m√[39m  [38;5;247mchecking for file 'C:\Users\JoseA\AppData\Local\Temp\Rtmp2FKvwA\remotes3a4074b056fe\joseandresmontes-CharityNavigatoR-8ed2385/DESCRIPTION'[39m[36m[39m"
 "1",""
 "1","
 "
@@ -117,9 +117,4 @@
 "1","** testing if installed package keeps a record of temporary installation path
 "
 "1","* DONE (CharityNavigatoR)
-"
-"0","CharityNavigatoR::GetIRS(state = ""CA"")"
-"1","[1]"
-"1"," ""Error with request, please check query"""
-"1","
 "

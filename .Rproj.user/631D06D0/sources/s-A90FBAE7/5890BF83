@@ -1,14 +1,14 @@
 {
     "collab_server" : "",
     "contents" : "",
-    "created" : 1583465049832.000,
+    "created" : 1583466718827.000,
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "4073245581",
-    "id" : "DC314F7E",
+    "hash" : "0",
+    "id" : "5890BF83",
     "lastKnownWriteTime" : 1583466138,
-    "last_content_update" : 1583466138372,
+    "last_content_update" : 1583466138,
     "path" : "C:/Users/JoseA/OneDrive/Desktop/Indep. Study/R packages/CharityNavigatoR/README.md",
     "project_path" : "README.md",
     "properties" : {
@@ -18,7 +18,7 @@
     "read_only" : false,
     "read_only_alternatives" : [
     ],
-    "relative_order" : 8,
+    "relative_order" : 3,
     "source_on_save" : false,
     "source_window" : "",
     "type" : "markdown"

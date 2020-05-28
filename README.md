@@ -15,7 +15,7 @@ Each subscriber to Charity Navigator API is uniquely identified by an ID and Key
 ```
 library(CharityNavigatoR)
 R.home(component = "home")
-usethis::edit_r_environ()`
+usethis::edit_r_environ()
 ```
 
 Then set your ID and Key exactly like this
@@ -26,7 +26,7 @@ CHARITY_APP_KEY = y #Key Sequence
 Click [here](https://charity.3scale.net/login) to register with Charity Navigator and receive your credentials.
  
 ## Basic Usage
-CharityClient provides easy to use function for the API service, with API parameters as function arguments. GetOrganization function gathers all available data. GetIRS function gathers all IRS data available.
+CharityNavigatoR provides easy to use function for the API service, with API parameters as function arguments. GetOrganization function gathers all available data. GetIRS function gathers all IRS data available.
 
 For example:
 

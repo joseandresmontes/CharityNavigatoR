@@ -4,8 +4,7 @@
 \alias{GetOrganizations}
 \title{Access All Available Charity Data}
 \usage{
-GetOrganizations(name = NULL, state = NULL, sizeRange = NULL,
-  limit = 10)
+GetOrganizations(name = NULL, state = NULL, sizeRange = NULL, limit = 10)
 }
 \arguments{
 \item{name}{search for a near match based on string.}

@@ -1,4 +1,0 @@
-"0","#Converts response into a parsable JSON object that is then flattened for easier access."
-"0","content <- Vectorize(jsonlite::fromJSON(httr::content(parameter_response, ""text"")), USE.NAMES=FALSE)"
-"2","Error in is.response(x) : object 'parameter_response' not found
-"
